@@ -1,0 +1,21 @@
+{
+  "name": "ysb-protractor-helper",
+  "version": "1.0.0",
+  "description": "Custom protractor helper's library for ysb",
+  "main": "index.js",
+  "keywords": [
+    "ysb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghulraj/ysb-protractor-helper"
+  },
+  "author": "Raghul Raj V <raghulraj@gmail.com>)",
+  "license": "MIT",
+  "peerDependencies": {
+    "protractor": ">= 5.0.0"
+  },
+  "devDependencies": {
+    "protractor": "^5.4.1"
+  }
+}
